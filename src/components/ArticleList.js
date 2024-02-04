@@ -18,4 +18,3 @@ function ArticleList({ posts }) {
 }
 
 export default ArticleList;
-articlelist.js
